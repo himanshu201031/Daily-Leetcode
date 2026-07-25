@@ -1,307 +1,248 @@
 <div align="center">
 
-# 🚀 Java DSA
+# 🚀⚡ JAVA DSA ⚡🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=250%2B+DSA+Problems;Java+%7C+LeetCode+%7C;Consistency+Beats+Intensity+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=JAVA+DSA+ROADMAP;250%2B+CURATED+INTERVIEW+PROBLEMS;PRODUCT+BASED+COMPANY+PREPARATION;CONSISTENCY+%3E+MOTIVATION" />
 
-<p>
-<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/Problems-250+-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge"/>
-</p>
+---
+
+![](https://img.shields.io/badge/STATUS-IN%20PROGRESS-00ff99?style=for-the-badge)
+![](https://img.shields.io/badge/LANGUAGE-JAVA-orange?style=for-the-badge&logo=openjdk)
+![](https://img.shields.io/badge/TARGET-250%2B%20PROBLEMS-blue?style=for-the-badge)
+![](https://img.shields.io/badge/GOAL-FAANG-red?style=for-the-badge)
 
 </div>
 
 ---
 
-# 📚 Roadmap
+# ⚡ MASTER ROADMAP
 
+```text
+████████████████████████████████████████████████████████
 
+               🎯 PHASE 1 : JAVA BASICS
 
+████████████████████████████████████████████████████████
 
----
-
-## 📖 Phase 1 — Java Fundamentals
-
-- [ ] Variables & Data Types
-- [ ] Operators
-- [ ] Input / Output
-- [ ] Conditional Statements
-- [ ] Loops
-- [ ] Methods / Functions
-- [ ] Arrays Basics
-- [ ] Time & Space Complexity
-- [ ] Big-O Analysis
-
----
-
-## 📦 Phase 2 — Arrays
-
-### Fundamentals
-- [ ] Traversal
-- [ ] Find Maximum / Minimum
-- [ ] Sum & Average
-- [ ] Reverse Array
-- [ ] Linear Search
-- [ ] Binary Search
-- [ ] Insert & Delete
-- [ ] Left Rotation
-- [ ] Right Rotation
-- [ ] Rotate by K
-- [ ] Prefix Sum
-- [ ] Difference Array
-
-### Two Pointers
-- [ ] Reverse Array
-- [ ] Valid Palindrome
-- [ ] Two Sum II
-- [ ] Move Zeroes
-- [ ] Remove Duplicates
-
-### Interview Problems
-- [ ] Kadane's Algorithm
-- [ ] Majority Element
-- [ ] Best Time to Buy & Sell Stock
-- [ ] Sort Colors (Dutch National Flag)
-- [ ] Merge Intervals
-- [ ] Product of Array Except Self
-- [ ] Next Permutation
-- [ ] Container With Most Water
-- [ ] Trapping Rain Water
+🟢 Variables
+🟢 Data Types
+🟢 Operators
+🟢 Loops
+🟢 Functions
+🟢 Arrays
+🟢 Time Complexity
+🟢 Space Complexity
+```
 
 ---
 
-## 🪟 Phase 3 — Sliding Window
+```text
+████████████████████████████████████████████████████████
 
-### Fixed Window
-- [ ] Maximum Sum Subarray of Size K
-- [ ] First Negative Integer
-- [ ] Count Distinct Elements
+              📦 PHASE 2 : ARRAYS
 
-### Variable Window
-- [ ] Longest Substring Without Repeating Characters
-- [ ] Longest Repeating Character Replacement
-- [ ] Minimum Window Substring
-- [ ] Fruits Into Baskets
-- [ ] Minimum Size Subarray Sum
+████████████████████████████████████████████████████████
 
----
+▶ Fundamentals
+   ☐ Traversal
+   ☐ Max / Min
+   ☐ Reverse
+   ☐ Linear Search
+   ☐ Binary Search
+   ☐ Rotation
+   ☐ Prefix Sum
 
-## #️⃣ Phase 4 — Hashing
+▶ Two Pointer
+   ☐ Reverse Array
+   ☐ Valid Palindrome
+   ☐ Two Sum II
+   ☐ Move Zeroes
+   ☐ Remove Duplicates
 
-- [ ] HashMap Basics
-- [ ] HashSet Basics
-- [ ] Two Sum
-- [ ] Contains Duplicate
-- [ ] Valid Anagram
-- [ ] Group Anagrams
-- [ ] Top K Frequent Elements
-- [ ] Longest Consecutive Sequence
-- [ ] Subarray Sum Equals K
-
----
-
-## 🔍 Phase 5 — Binary Search
-
-- [ ] Binary Search
-- [ ] Lower Bound
-- [ ] Upper Bound
-- [ ] First & Last Position
-- [ ] Search in Rotated Sorted Array
-- [ ] Find Peak Element
-- [ ] Binary Search on Answer
-- [ ] Koko Eating Bananas
-- [ ] Capacity to Ship Packages
+▶ Interview Problems
+   ☐ Kadane's Algorithm
+   ☐ Majority Element
+   ☐ Buy & Sell Stock
+   ☐ Sort Colors
+   ☐ Merge Intervals
+   ☐ Product Except Self
+   ☐ Next Permutation
+   ☐ Container With Most Water
+   ☐ Trapping Rain Water
+```
 
 ---
 
-## 🔤 Phase 6 — Strings
+```text
+████████████████████████████████████████████████████████
 
-- [ ] String Basics
-- [ ] StringBuilder
-- [ ] Reverse Words
-- [ ] Character Frequency
-- [ ] Longest Common Prefix
-- [ ] String Compression
-- [ ] KMP Algorithm
-- [ ] Rabin-Karp Algorithm
+           🪟 PHASE 3 : SLIDING WINDOW
 
----
+████████████████████████████████████████████████████████
 
-## 🔃 Phase 7 — Sorting
-
-- [ ] Bubble Sort
-- [ ] Selection Sort
-- [ ] Insertion Sort
-- [ ] Merge Sort
-- [ ] Quick Sort
-- [ ] Counting Sort
-- [ ] Heap Sort
+☐ Fixed Window
+☐ Variable Window
+☐ Longest Substring
+☐ Minimum Window
+☐ Sliding Window Maximum
+```
 
 ---
 
-## 🔗 Phase 8 — Linked List
+```text
+████████████████████████████████████████████████████████
 
-- [ ] Singly Linked List
-- [ ] Doubly Linked List
-- [ ] Circular Linked List
-- [ ] Reverse Linked List
-- [ ] Middle Node
-- [ ] Detect Cycle
-- [ ] Merge Two Sorted Lists
-- [ ] Remove Nth Node From End
-- [ ] LRU Cache
+             #️⃣ PHASE 4 : HASHING
 
----
+████████████████████████████████████████████████████████
 
-## 📚 Phase 9 — Stack
-
-- [ ] Stack Basics
-- [ ] Valid Parentheses
-- [ ] Min Stack
-- [ ] Next Greater Element
-- [ ] Daily Temperatures
-- [ ] Largest Rectangle in Histogram
-- [ ] Monotonic Stack
+☐ HashMap
+☐ HashSet
+☐ Two Sum
+☐ Group Anagrams
+☐ Top K Frequent
+☐ Longest Consecutive Sequence
+☐ Subarray Sum = K
+```
 
 ---
 
-## 🚶 Phase 10 — Queue
+```text
+████████████████████████████████████████████████████████
 
-- [ ] Queue Basics
-- [ ] Circular Queue
-- [ ] Deque
-- [ ] Queue Using Stacks
-- [ ] Priority Queue
+          🔍 PHASE 5 : BINARY SEARCH
 
----
+████████████████████████████████████████████████████████
 
-## 🌳 Phase 11 — Trees
-
-### Binary Tree
-- [ ] DFS
-- [ ] BFS
-- [ ] Preorder
-- [ ] Inorder
-- [ ] Postorder
-- [ ] Level Order
-- [ ] Height
-- [ ] Diameter
-- [ ] Balanced Binary Tree
-- [ ] Zigzag Traversal
+☐ Binary Search
+☐ Lower Bound
+☐ Upper Bound
+☐ Rotated Array
+☐ Peak Element
+☐ Binary Search on Answer
+```
 
 ---
 
-## 🌲 Phase 12 — Binary Search Tree
+```text
+████████████████████████████████████████████████████████
 
-- [ ] Search
-- [ ] Insert
-- [ ] Delete
-- [ ] Validate BST
-- [ ] Lowest Common Ancestor
-- [ ] Kth Smallest Element
+            🔤 PHASE 6 : STRINGS
 
----
+████████████████████████████████████████████████████████
 
-## ⛰️ Phase 13 — Heap
-
-- [ ] Min Heap
-- [ ] Max Heap
-- [ ] Heapify
-- [ ] Heap Sort
-- [ ] Top K Elements
-- [ ] Merge K Sorted Lists
+☐ String Basics
+☐ StringBuilder
+☐ KMP
+☐ Rabin Karp
+☐ String Compression
+```
 
 ---
 
-## 🌐 Phase 14 — Graph
+```text
+████████████████████████████████████████████████████████
 
-### Traversal
-- [ ] BFS
-- [ ] DFS
+         🔗 PHASE 7 : LINKED LIST
 
-### Problems
-- [ ] Flood Fill
-- [ ] Number of Islands
-- [ ] Clone Graph
-- [ ] Course Schedule
-- [ ] Bipartite Graph
+████████████████████████████████████████████████████████
 
-### Algorithms
-- [ ] Topological Sort
-- [ ] Dijkstra
-- [ ] Bellman-Ford
-- [ ] Floyd-Warshall
-- [ ] Prim's Algorithm
-- [ ] Kruskal's Algorithm
-- [ ] Disjoint Set Union (DSU)
+☐ Reverse LL
+☐ Middle Node
+☐ Detect Cycle
+☐ Merge Lists
+☐ LRU Cache
+```
 
 ---
 
-## 🎯 Phase 15 — Greedy
+```text
+████████████████████████████████████████████████████████
 
-- [ ] Activity Selection
-- [ ] Fractional Knapsack
-- [ ] Jump Game
-- [ ] Gas Station
-- [ ] Merge Intervals
-- [ ] Partition Labels
+        📚 STACK • 🚶 QUEUE • 🌳 TREES
 
----
+████████████████████████████████████████████████████████
 
-## 🔙 Phase 16 — Backtracking
-
-- [ ] Subsets
-- [ ] Permutations
-- [ ] Combination Sum
-- [ ] Letter Combinations of Phone Number
-- [ ] N-Queens
-- [ ] Sudoku Solver
-- [ ] Rat in a Maze
+☐ Stack
+☐ Queue
+☐ Binary Tree
+☐ BST
+☐ Heap
+☐ Trie
+```
 
 ---
 
-## 🧠 Phase 17 — Dynamic Programming
+```text
+████████████████████████████████████████████████████████
 
-### 1D DP
-- [ ] Fibonacci
-- [ ] Climbing Stairs
-- [ ] House Robber
-- [ ] Coin Change
+            🌐 GRAPH ALGORITHMS
 
-### 2D DP
-- [ ] 0/1 Knapsack
-- [ ] Unbounded Knapsack
-- [ ] Longest Increasing Subsequence
-- [ ] Longest Common Subsequence
-- [ ] Edit Distance
-- [ ] Matrix Chain Multiplication
-- [ ] Partition DP
+████████████████████████████████████████████████████████
 
----
-
-## 🏁 Final Interview Preparation
-
-- [ ] Blind 75
-- [ ] NeetCode 150
-- [ ] Striver SDE Sheet
-- [ ] Company-wise Questions
-- [ ] Mock Interviews
-- [ ] Weekly Revision
-- [ ] Contest Practice
+☐ BFS
+☐ DFS
+☐ Topological Sort
+☐ Dijkstra
+☐ Bellman Ford
+☐ Floyd Warshall
+☐ Kruskal
+☐ Prim
+☐ DSU
+```
 
 ---
 
-# 🎯 Final Goal
+```text
+████████████████████████████████████████████████████████
 
-- ✅ Master Java DSA
-- ✅ Solve 250+ Curated Problems
-- ✅ Master Interview Patterns
-- ✅ Crack Product-Based Company Interviews
-- ✅ Become a Strong Problem Solver 🚀
+          🧠 DYNAMIC PROGRAMMING
+
+████████████████████████████████████████████████████████
+
+☐ Fibonacci
+☐ House Robber
+☐ Coin Change
+☐ Knapsack
+☐ LIS
+☐ LCS
+☐ Edit Distance
+☐ Matrix DP
+```
+
+---
+
+# 🏆 FINAL BOSS
+
+```text
+👑 Blind 75
+👑 NeetCode 150
+👑 Striver SDE Sheet
+👑 Company Wise Questions
+👑 Weekly Revision
+👑 Mock Interviews
+👑 Competitive Programming
+👑 250+ Curated Problems
+```
+
+---
 
 <div align="center">
 
-### ⭐ Keep Learning • Keep Coding • Never Give Up 🚀
+# ⚔️ FROM
+
+🐣 Beginner
+
+⬇️
+
+🧑‍💻 Problem Solver
+
+⬇️
+
+🏆 Interview Ready
+
+⬇️
+
+🚀 Software Engineer
 
 </div>
