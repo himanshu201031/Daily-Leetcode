@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Java DSA Mastery
+# 🚀 Java DSA
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=250%2B+DSA+Problems;Java+%7C+LeetCode+%7C+Interview+Preparation;Consistency+Beats+Intensity+%F0%9F%94%A5" />
 
