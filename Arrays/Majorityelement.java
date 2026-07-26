@@ -40,7 +40,7 @@
 public class Majorityelement {
     public static void main(String[] args) {
 
-        int[] arr = {3, 2, 3, 3, 2, 1, 3};
+        int[] arr = {1,1,2};
         int n = arr.length;
         int ans=0;
         int fq=0;
@@ -49,7 +49,7 @@ public class Majorityelement {
             if(fq==0) {
                 ans=arr[i];
             }
-        else if(ans==arr[i]){
+        if(ans==arr[i]){
                 fq++;
 
         }
