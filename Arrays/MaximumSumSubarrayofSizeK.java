@@ -1,7 +1,7 @@
 public class MaximumSumSubarrayofSizeK {
     public static int getmax(int arr[], int k) {
         int st = 0;
-        int sum = 0, maxsum = 0;
+        int sum = 0, maxsum = Integer.MIN_VALUE;
         int n = arr.length;
         for (int end = 0; end < n; end++) {
             sum = sum + arr[end];
