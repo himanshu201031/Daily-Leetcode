@@ -1,3 +1,4 @@
+package SlidingWindow;
 public class MaximumNumberofVowelsinSubstring {
     public static int maxvl(String s,int k){
      int count=0,max=0;

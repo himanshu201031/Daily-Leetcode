@@ -1,3 +1,4 @@
+package SlidingWindow;
 public class MaximumAverageSubarrayI {
     public static int maxavg(int[] arr,int k){
        int n=arr.length;

@@ -1,3 +1,4 @@
+package SlidingWindow;
 public class MaximumSumSubarrayofSizeK {
     public static int getmax(int arr[], int k) {
         int st = 0;
