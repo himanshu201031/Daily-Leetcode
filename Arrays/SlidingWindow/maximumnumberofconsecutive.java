@@ -32,3 +32,24 @@ public class maximumnumberofconsecutive {
         System.out.println(rs);
     }
 }
+
+
+
+// for (int right = 0; right < nums.length; right++) {
+
+//     if (nums[right] == 0)
+//         zeroCount++;
+
+//     while (zeroCount > k) {
+
+//         if (nums[left] == 0)
+//             zeroCount--;
+
+//         left++;
+//     }
+
+//     ans = Math.max(ans, right - left + 1);
+// }
+
+// return ans;
+//     }
