@@ -35,8 +35,7 @@
 // }
 
 
-
-
+package TwoPointers;
 public class Majorityelement {
     public static void main(String[] args) {
 

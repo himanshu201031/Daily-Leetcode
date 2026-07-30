@@ -1,3 +1,5 @@
+package TwoPointers;
+
 public class Stringpalindrome {
     public static void main(String[] args) {
         String str = "malayalam";
