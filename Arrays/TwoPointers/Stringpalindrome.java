@@ -2,7 +2,7 @@ package TwoPointers;
 
 public class Stringpalindrome {
     public static void main(String[] args) {
-        String s = "A man, a plan, a canal: Panam";
+        String s = "A man, a plan, a canal: Panama";
         int start = 0;
         int last = s.length() - 1;
 
