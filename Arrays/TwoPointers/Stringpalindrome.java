@@ -2,21 +2,28 @@ package TwoPointers;
 
 public class Stringpalindrome {
     public static void main(String[] args) {
-        String str = "malayalam";
-        int left = 0;
-        int right = str.length() - 1;
+        String s = "A man, a plan, a canal: Panam";
+        int start = 0;
+        int last = s.length() - 1;
 
-        while (left < right) {
-            if (str.charAt(left) != str.charAt(right)) {
-                System.out.println("Not a palindrome");
-                return;
+        while (start <= last) {
+            char currFirst = s.charAt(start);
+            char currLast = s.charAt(last);
+
+            if (!Character.isLetterOrDigit(currFirst)) {
+                start++;
+            } else if (!Character.isLetterOrDigit(currLast)) {
+                last--;
+            } else {
+                if (Character.toLowerCase(currFirst) != Character.toLowerCase(currLast)) {
+                    System.out.println("Not a palindrome");
+                    return;
+                }
+                start++;
+                last--;
             }
-            left++;
-            right--;
         }
 
         System.out.println("It is a palindrome");
     }
 }
-
-
