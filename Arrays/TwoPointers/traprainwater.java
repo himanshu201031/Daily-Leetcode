@@ -3,29 +3,34 @@ package TwoPointers;
 public class traprainwater {
 
 public static int trap(int[] height) {
- int n = height.length;
- int ans = 0;
- int leftmax = 0;
- int rightmax = 0;
+    int n = height.length;
+    if (n == 0) return 0;
 
-for (int i = 0; i < n; i++) {
-
+    int left = 0;
+    int right = n - 1;
     int leftMax = 0;
     int rightMax = 0;
+    int ans = 0;
 
-    for (int j = 0; j <= i; j++) {
-        leftMax = Math.max(leftMax, height[j]);
+    while (left < right) {
+        if (height[left] < height[right]) {
+            if (height[left] >= leftMax) {
+                leftMax = height[left];
+            } else {
+                ans += leftMax - height[left];
+            }
+            left++;
+        } else {
+            if (height[right] >= rightMax) {
+                rightMax = height[right];
+            } else {
+                ans += rightMax - height[right];
+            }
+            right--;
+        }
     }
 
-    for (int j = i; j < n; j++) {
-        rightMax = Math.max(rightMax, height[j]);
-    }
-
-    int water = Math.min(leftMax, rightMax) - height[i];
-    ans += water;
-}
-
-return ans;
+    return ans;
 }
 
 
