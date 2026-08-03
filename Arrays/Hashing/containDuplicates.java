@@ -1,4 +1,4 @@
- package Hashing;
+package Hashing;
 
 import java.util.HashSet;
 // import java.util.Arrays; // Uncomment only if using the sorting approach
