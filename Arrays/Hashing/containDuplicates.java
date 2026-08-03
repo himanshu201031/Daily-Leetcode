@@ -12,6 +12,16 @@ HashSet<Integer> set = new HashSet<>();
             set.add(num);
         }
         return false;
+
+        //    Arrays.sort(nums);
+
+// for (int i = 0; i < nums.length - 1; i++) {
+//     if (nums[i] == nums[i + 1]) {
+//         return true;
+//     }
+// }
+
+// return false;
     }
 
     public static void main(String[] args) {
