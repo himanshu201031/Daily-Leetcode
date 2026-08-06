@@ -8,7 +8,7 @@ public class twosumII {
         while (lt < rt) {
             sum = arr[lt] + arr[rt];
             if (sum == target) {
-                return new int[] { lt , rt  };
+                return new int[] { lt+1 , rt+1 };
             } else if (sum > target) {
                 rt--;
             } else {
