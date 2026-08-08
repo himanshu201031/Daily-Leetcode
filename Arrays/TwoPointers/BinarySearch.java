@@ -14,7 +14,7 @@ public class BinarySearch {
 
             if (arr[mid] == target) {
 
-                System.out.println("Found at index: " + mid);
+                System.out.println("Found at index : " + mid);
                 return;
 
             } else if (arr[mid] < target) {
