@@ -19,11 +19,11 @@ public class BinarySearch {
 
             } else if (arr[mid] < target) {
 
-                right= mid -1;
+                left = mid + 1;
 
             } else {
 
-                left = mid + 1;
+                right = mid - 1;
 
             }
         }
